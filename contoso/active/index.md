@@ -1,11 +1,9 @@
-::: moniker range="contososerver-2.0"
+---
+zone_pivot_groups: programming-languages-set-twenty-three
+---
 
-# File map test in Loc versioning - Index - ENUS - contososerver-2.0
+# Welcome to e2eppe-versiontest!
 
-This content should display for the following monikers:
+::: zone pivot="programming-language-csharp" test1 ::: zone-end
 
-* contososerver-2.0
-
-* [Link to Version2.0 content](assign-policy-definition.md)
-
-::: moniker-end
+::: zone pivot="programming-language-cpp" test2 ::: zone-end
