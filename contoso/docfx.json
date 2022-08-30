@@ -1,5 +1,4 @@
 {
-  "isCanonicalUrlWithMoniker": true,
   "build": {
     "content": [
       {
@@ -75,6 +74,7 @@
     "fileMetadata": {},
     "template": [],
     "dest": "e2eprod-version",
+    "isCanonicalUrlWithMoniker": true,
     "markdownEngineName": "markdig",
 	"groups": {
       "legacy": {
